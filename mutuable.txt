@@ -1,0 +1,36 @@
+A mutuable object allows the programmer to modify its internal state after creation
+
+An immutable object does not allow the programmer to change its state once it is created.
+
+Immutable Objects are common in functional programming while mutuable objects are widely used in objected oriented programming.
+
+Since Python is a multiparadigm programming language, it provides mutuable and immutable objects.
+
+In Python, Everything is an object
+Every Python Object has three core characteristics.
+
+1. Values
+2. Identity
+3. Type
+
+An object's value lies in a concrete position or address in a computer's memory.
+
+The specific memory address is the Identity of an object
+
+
+The Type of the object determine which class that object derives from.
+
+An object's type define the operations that you can perform with or on that object
+
+
+
+
+
+An object that allows the programmer to changes it's value without changing its Identity is a mutuable objects
+
+Changes that can be performed on a mutuable object's Value are known as mutuations
+
+
+
+
+

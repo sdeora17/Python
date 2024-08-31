@@ -1,0 +1,26 @@
+Integer
+Long Integer
+Floating point constants
+Complex numbers
+
+Slicing is a way of creating a sub-string from a given string
+String slicing to extract a portion of a string by specifying a start and end index.
+
+
+You cannot modify string characters
+
+Slicing 
+Accessing parts of string
+str[startingindex:EndingIndiex]
+# Ending indiex is not include
+
+
+
+str.endswith("er")  # returns true if string ends with the substring
+
+
+str.capitalize() -> Capitalizes the first letter.
+
+str.replace(old,new) # Replaces all occurences of old words
+str.find(word) # Returns 1st index of 1st occurences
+str.count("am") # Counts the number of substring exists
